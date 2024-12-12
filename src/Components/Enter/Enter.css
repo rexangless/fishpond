@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 15%;
+    background:tr;
+}
+
+.inputed    {
+    padding-top: 10px;
+}
+
+.input  {
+    border-radius: 20px;
+    align-self: center;
+}
+
+.input:placeholder-shown    {
+    text-align: center;
+}
+
+.submit {
+    padding-top: 10px;
+    width: 100%;
+    height: 112px;
+    color: navy;
+}

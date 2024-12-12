@@ -1,0 +1,15 @@
+.storyboard {
+    background-color: none;
+    border: 1px solid turquoise;
+    width: 1354px;
+}
+
+h3  {
+    font-size: 36px;
+    text-align: justify;
+}
+
+p   {
+    font-size: 18px;
+    padding: 23px;
+}
