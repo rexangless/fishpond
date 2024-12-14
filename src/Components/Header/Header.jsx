@@ -4,7 +4,7 @@ function Header()    {
     return (
         <>
             <div className='header'>
-                    <div className="text">fi$pond</div>
+                <div className="text">fi$pond</div>
             </div>
         </>
     );

@@ -36,12 +36,16 @@ a   {
 }
 
 .dropd a    {
-    color: #333;
+    color: navy;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
 }
 
 .dropd a:hover  {
-    background-color: #f1f1f1;
+    background-color: hsl(0, 0%, 95%);
+}
+
+.dropd li   {
+    list-style: none;
 }

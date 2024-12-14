@@ -20,10 +20,15 @@ function Enter()    {
                 <div className='container'>
                     <div className="input">
                         <div className='submit'>
-                            <button className = "submit" type="submit" >Submit</button>
+                            <button className = "submit" 
+                            type="submit" >Submit</button>
                         </div>
                         <div className='inputed'>
-                            <input className = "input" type = "password" value = {inputValue} onChange = {handleInputChange} placeholder = 'fi$pond' />
+                            <input className = "input"
+                             type = "password" 
+                             value = {inputValue} 
+                             onChange = {handleInputChange} 
+                             placeholder = 'fi$pond' />
                         </div>
                     </div>
                 </div>

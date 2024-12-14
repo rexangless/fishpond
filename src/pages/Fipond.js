@@ -1,7 +1,6 @@
-export default function Faq()    {
+export default function fi$pond()   {
     return  (
         <>
-        
         </>
     );
 }
