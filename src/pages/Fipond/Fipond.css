@@ -1,0 +1,14 @@
+.home   {
+    height: 34.5px;
+    width: 100%;
+    background-color: none;
+}
+
+.home:hover {
+    background-color: #10efff69;
+}
+
+.pond-container {
+    height: 0;
+    width: 0;
+}
