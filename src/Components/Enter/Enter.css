@@ -2,12 +2,15 @@
     display: flex;
     flex-direction: column;
     margin: auto;
-    width: 15%;
-    background:tr;
+    width: 204.9px;
+    height: 174px;
 }
 
-.inputed    {
+.inputted    {
     padding-top: 10px;
+    max-width: 172.35px;
+    height: 22px;
+    padding-bottom: 10px;
 }
 
 .input  {
@@ -21,7 +24,8 @@
 
 .submit {
     padding-top: 10px;
-    width: 100%;
+    padding-bottom: 10px;
+    width: 172.35px;
     height: 112px;
     color: navy;
 }
